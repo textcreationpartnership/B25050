@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>By the King, a proclamation. James R. Whereas for remedy of the present scarcity of money in this our kingdom, and that our standing forces may be the better paid and subsisted, and that our subjects of this realm may be the better enabled to pay and discharge the taxes, ...</title>
+            <author>England and Wales. Sovereign (1685-1688 : James II)</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B25050</idno><idno type="EEBO-CITATION">99886373</idno>
+  <idno type="VID">186631</idno>
+  <idno type="EEBO-PROQUEST">2264215678</idno>
+  
+            <idno type="STC">Wing J276</idno>
+            <idno type="STC">Interim Tract Supplement Guide C.21.f.12[59]</idno>
+            <idno type="STC">Interim Tract Supplement Guide G.6022[62]</idno>
+            <idno type="STC">ESTC R225913</idno>
+            <idno type="PROQUEST">ocm99886373</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99886373e"/>
+            <note>(EEBO-TCP ; phase 2, no. B25050)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 186631)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; C5:2[59]; C23:1[62])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>By the King, a proclamation. James R. Whereas for remedy of the present scarcity of money in this our kingdom, and that our standing forces may be the better paid and subsisted, and that our subjects of this realm may be the better enabled to pay and discharge the taxes, ...</title>
+                  <author>England and Wales. Sovereign (1685-1688 : James II)</author>
+                  <author>James II, King of England, 1633-1701.</author>
+               </titleStmt>
+               <extent>2 sheets ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Andrew Crook and Samuel Helsham assigns of Benjamin Tooke printer to the Kings most excellent Majesty; and are to be sold at at the Kings printinghouse on Ormonde-Key, and the Colledge-Arms in Castle-street.,</publisher>
+                  <pubPlace>Dublin, :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption title and opening lines of text.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"Given at our court at Dublin castle the 18th day of June, 1689."</note>
+                  <note>Making brass money current.</note>
+                  <note>Arms 186.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Money --  Ireland --  Early works to 1800.</term>
+               <term type="geographic_name">Ireland --  History --  War of 1689-1691 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-05 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:186631:1"/>
+            <head>
+               <figure>
+                  <figDesc>royal coat of arms of England</figDesc>
+                  <p>HONI SOIT QVI MAL Y PENSE</p>
+                  <p>DIEV ET MON DROIT</p>
+               </figure>
+            </head>
+            <head>By The KING,</head>
+            <head>A PROCLAMATION.</head>
+            <opener>
+               <signed>JAMES R.</signed>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>HEREAS for remedy of the present scarcity of Money in this Our Kingdom, and that Our standing Forces may be the better paid and sub<g ref="char:EOLunhyphen"/>sisted, and that Our Subjects of this Realm may be the better enabled to pay and discharge the Taxes, Excise, Customs, Rents, and other debts and duties which are or shall be hereafter payable to Vs; We have ordered a certain quantity of Copper and Brass Money to be Coyned to pass currant in this Our Kingdom during Our plea<g ref="char:EOLhyphen"/>sure, in six penny pieces; each piece having of one side the Effigies or Figure of Our Head, with this Inscription round, <hi>Jacobus II Dei gratia,</hi> and upon the other side, the stamp or impression of <hi>Cross Scepters</hi> and a <hi>Crown,</hi> between, <hi>J. R.</hi> with <hi>VI.</hi> above, the moneth wherein they are coyned below, with this Inscription round, <hi>Mag. Brit. Fran. &amp; Hiber. Rex.</hi> 1689. and fringed round, each of the said pieces to be of the metal of Copper and Brass. All which pieces of Money, We have thought fit, by the advice of Our Privy Council, to make currant Mo<g ref="char:EOLhyphen"/>ney within this our Kingdom. We do therefore hereby Publish and Declare by the advice aforesaid, that the said pieces of Copper and Brass coyned, or hereafter to be coyned by Our said Order, marked and stampt as aforesaid, shall pass during Our Pleasure, as currant Money amongst all Our Subjects within this Realm, and in all payments to be made either to Vs or from Vs, or to or from any of Our Subjects within this Kingdom, ac<g ref="char:EOLhyphen"/>cording to the Rates following; that is to say, each of the said pieces called <hi>six penny</hi> pieces, marked and stamped as aforesaid, to pass for <hi>six pence;</hi> the said pieces to pass at the rates aforesaid in all payments, excepting the duties of Customs and Excise upon the importation of Forreign Goods into this Kingdom, Money left in trust or keeping with any person, and excepting mortgages, and debts now due by Record, or by Bills, Bonds, or Obliga<g ref="char:EOLhyphen"/>tions,
+<pb facs="tcp:186631:2"/> and that the same shall also pass currant at the Rates aforesaid, for the interest which hereafter shall fall due for such Mortgages and Debts due by Records, Bills, Bonds or Obligations, and likewise for any of the said Principal debts so secured where the debtor or his Goods are or shall be taken in Execution for the same, and We do hereby Strictly Charge and Command all and every of Our Subjects of this Kingdome to take &amp; receive in all Payments to be made to them (excepting as aforesaid) the said Pieces of Money according to the Rates aforesaid, hereby declaring that such of Our Subjects within this Kingdom as shall Refuse to Receive the said Pieces of Copper and Brass Mony at the Rates aforesaid (excepting as aforesaid) be<g ref="char:EOLhyphen"/>ing tendred to them for payment shall be Punished according to the utmost Rigour of the Law, as Contemners of Our Royal Prerogative and Com<g ref="char:EOLhyphen"/>mand, Provided always that this Our Proclamation shall not be Construed, to oblige any Merchant or Merchants, Importing any Goods into this Kingdom to Receive upon the first Sale of such Goods so Imported any of the said Copper or Brass Mony: And whereas We have caused the said Cop<g ref="char:EOLhyphen"/>per and Brass Mony to be made currant mony for present Necessity, and therefore do not intend that the same shall continue for any long time. We do by this Our Royal Proclamation Promise and Engage to all our Subjects here, that as soon as the said Mony shall be Decried and made Null, that we shall thereupon receive from all and Every Our Subjects within this King<g ref="char:EOLhyphen"/>dom such Proportion of the said Mony as shall be, and remain in their respe<g ref="char:EOLhyphen"/>ctive hands at the time the same shall be so Decried and made Void; and at the same time either allow for the same to them the Value thereof at the Rates aforesaid, Out of what Rent, Duties or Debts they respectively shall owe to Vs, or make them full satisfaction for the same according the Rates aforesaid, in <hi>Gold</hi> or <hi>Silver</hi> of the Currant Coyne of this Kingdom.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at Our Court at <hi>Dublin</hi> Castle</hi>
+                  <date>
+                     <hi>the 18th day of <hi>June,</hi>
+                     </hi> 1689. <hi>And in the fifth year of Our Reign.</hi>
+                  </date>
+               </dateline>
+               <hi>God Save the King.</hi>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>DƲBLIN,</hi> Printed by <hi>Andrew Crook</hi> and <hi>Samuel Helsham</hi> Assigns of <hi>Benjamin Tooke</hi> Printer to the Kings Most Excellent Majesty; and are to be Sold at the Kings Printinghouse on <hi>Ormonde-Key,</hi> and the <hi>Colledge-Arms</hi> in <hi>Castle-street.</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
